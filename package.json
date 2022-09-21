@@ -1,0 +1,21 @@
+{
+  "name": "norman-design-theme",
+  "displayName": "Norman Design Theme",
+  "description": "Theme using our colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Norman Design Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Norman Design Theme-color-theme.json"
+      }
+    ]
+  }
+}
